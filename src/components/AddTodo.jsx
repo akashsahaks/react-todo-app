@@ -16,13 +16,13 @@ const AddTodo = (props) => {
   return (
     <div className="container mt-3">
       <form onSubmit={onSubmit}>
-        <div className="input-group mb-3">
+        <div className="input-group mb-3 ">
           <input
             type="text"
             placeholder="Add your todo here"
             value={value}
             onChange={inputOnChange}
-            className="form-control"
+            className="form-control rounded-pill"
           />
           <div className="input-group-append p-1">
             <button type="submit" className="btn btn-success">
