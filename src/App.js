@@ -5,8 +5,9 @@ import "../node_modules/bootstrap/dist/js/bootstrap.js";
 function App() {
   return (
     <>
-      <div className="container" style={{ width: "60%" }}>
+      <div className="container p-3" style={{ width: "60%" }}>
         <div className="App">
+          <h1>React Todo App</h1>
           <Todos />
         </div>
       </div>
