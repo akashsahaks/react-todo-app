@@ -1,6 +1,6 @@
 
 
-## React TODO Web Application \
+## React TODO Web Application 
 [Click To Run App](https://akashsahaks.github.io/react-todo-app/).\
 This is hosted on github pages and it is using browser localStorage to store todos.
 
